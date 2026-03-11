@@ -48,3 +48,17 @@ Module 1 is organized strictly by day to ensure a smooth, progressive learning e
 *   **Day 3:** Architecture Decision Records (ADRs) and Engineering Compromises
 *   **Day 4:** Containerized Agent Security & NanoClaw Deployment
 *   **Day 5:** Systems Architect Synthesis & Validation (Capstone Prep)
+
+### Module 5 Outline: Data, Integration & Reliability
+*   **Day 1:** SRE Fundamentals (SLOs, SLIs, Error Budgets)
+*   **Day 2:** Data Integration Patterns & Pipeline Build
+*   **Day 3:** Chaos Engineering (Breaking Things on Purpose)
+*   **Day 4:** Observability Deep Dive & CI/CD Reliability integration
+*   **Day 5:** Incident Simulation & Post-Incident Review (PIR)
+
+### Module 6 Outline: Rapid Prototyping & Design Sprints
+*   **Day 1:** Problem Discovery & The Feature Design Sprint
+*   **Day 2:** 48-Hour Hackathon - Build Sprint Day 1
+*   **Day 3:** 48-Hour Hackathon - Build Day 2 & User Validation Testing
+*   **Day 4:** ClawSwarm Multi-Agent Iteration & Orchestration
+*   **Day 5:** Hackathon Demo Day & Product Hand-off
