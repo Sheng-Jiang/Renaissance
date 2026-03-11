@@ -34,3 +34,10 @@ Module 1 is organized strictly by day to ensure a smooth, progressive learning e
 *   **Day 3:** AI Code Review Workflows (Automating verification and building Checklists).
 *   **Day 4:** Advanced Agent Development (Building Multi-Tool & Memory-Augmented Agents).
 *   **Day 5:** AI Governance Lab (Designing team AI workflows and measurement frameworks).
+
+### Module 3 Outline: Full-Stack Development at Speed
+*   **Day 1:** Full-Stack Speed Run (Part 1 - Setup & Parallel Dev)
+*   **Day 2:** Full-Stack Speed Run (Part 2 - Integration & E2E Testing)
+*   **Day 3:** Database Fundamentals (Schema Design, Migrations, Query Optimization)
+*   **Day 4:** GitHub Actions Advanced (Matrix Builds, Docker Publishing)
+*   **Day 5:** Cloud-Agnostic Containerized Deployment (Production DB, Walkthrough)
