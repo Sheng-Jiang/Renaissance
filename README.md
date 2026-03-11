@@ -41,3 +41,10 @@ Module 1 is organized strictly by day to ensure a smooth, progressive learning e
 *   **Day 3:** Database Fundamentals (Schema Design, Migrations, Query Optimization)
 *   **Day 4:** GitHub Actions Advanced (Matrix Builds, Docker Publishing)
 *   **Day 5:** Cloud-Agnostic Containerized Deployment (Production DB, Walkthrough)
+
+### Module 4 Outline: System Design & Architecture
+*   **Day 1:** System Design & Progressive Architecture (Workshops & Scaling)
+*   **Day 2:** Kiro Spec-Driven Workflow & EARS Notation
+*   **Day 3:** Architecture Decision Records (ADRs) and Engineering Compromises
+*   **Day 4:** Containerized Agent Security & NanoClaw Deployment
+*   **Day 5:** Systems Architect Synthesis & Validation (Capstone Prep)
