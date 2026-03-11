@@ -26,3 +26,11 @@ Module 1 is organized strictly by day to ensure a smooth, progressive learning e
 
 ---
 *The Renaissance Developer takes ownership of Delivery, People, Business, AI, Reliability, and Process. Our core value is creating clarity from chaos.*
+
+### Module 2 Outline
+
+*   **Day 1:** Advanced Prompt Engineering (Scaffolding, Tests, Refactor, Debug).
+*   **Day 2:** The AI Bug Safari (Identifying & preventing top AI code failures).
+*   **Day 3:** AI Code Review Workflows (Automating verification and building Checklists).
+*   **Day 4:** Advanced Agent Development (Building Multi-Tool & Memory-Augmented Agents).
+*   **Day 5:** AI Governance Lab (Designing team AI workflows and measurement frameworks).
