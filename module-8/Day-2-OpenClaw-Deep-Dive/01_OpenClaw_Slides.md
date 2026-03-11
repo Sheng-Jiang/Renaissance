@@ -4,6 +4,7 @@ theme: default
 paginate: true
 ---
 
+![bg right:60% fit](cover.png)
 # Module 8: Communication, Leadership & Enterprise Scale
 ## Day 2: OpenClaw Enterprise Codebase Deep Dive
 **Renaissance Developer Academy**
