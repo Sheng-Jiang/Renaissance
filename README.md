@@ -70,3 +70,11 @@ Module 1 is organized strictly by day to ensure a smooth, progressive learning e
 *   **Day 4:** Business Case Writing & Capstone Project Definition
 *   **Day 5:** Executive Presentations, Reflection & Calibration
 
+### Module 8 Outline: Communication, Leadership & Enterprise Scale
+*   **Day 1:** Multi-Audience Communication Workshop (Engineer / Product / Executive)
+*   **Day 2:** OpenClaw Enterprise Codebase Deep Dive (430K+ line monorepo)
+*   **Day 3:** Security Audit Lab (Threat Modeling, STRIDE, OWASP for LLMs)
+*   **Day 4:** Technical Writing & Enterprise ADRs (Tech Spec + Executive Summary)
+*   **Day 5:** Leadership Simulation, Reflection & Calibration
+
+
