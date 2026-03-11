@@ -7,7 +7,7 @@ This repository houses the lesson plans, slide decks, exercise guides, and proje
 ## Course Structure
 
 *   **/Background**: Core concept documents detailing the "Renaissance Developer" archetype.
-*   **/Day-1**: The full curriculum for Module 1, covering everything from the fundamental mindsets to hands-on mastery of our AI toolset (Claude Code, Kiro, Antigravity, Nanobot).
+*   **/module-1**: The full curriculum for Module 1, covering everything from the fundamental mindsets to hands-on mastery of our AI toolset (Claude Code, Kiro, Antigravity, Nanobot).
 
 ### Module 1 Outline
 
