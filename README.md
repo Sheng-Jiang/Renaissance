@@ -62,3 +62,11 @@ Module 1 is organized strictly by day to ensure a smooth, progressive learning e
 *   **Day 3:** 48-Hour Hackathon - Build Day 2 & User Validation Testing
 *   **Day 4:** ClawSwarm Multi-Agent Iteration & Orchestration
 *   **Day 5:** Hackathon Demo Day & Product Hand-off
+
+### Module 7 Outline: Business Immersion & Product Thinking
+*   **Day 1:** Lean Canvas & Value Proposition Design
+*   **Day 2:** Finance for Engineers & Business Metrics (P&L, ROI, KPIs)
+*   **Day 3:** Customer Discovery & Jobs-to-be-Done Interviews
+*   **Day 4:** Business Case Writing & Capstone Project Definition
+*   **Day 5:** Executive Presentations, Reflection & Calibration
+
