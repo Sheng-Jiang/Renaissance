@@ -4,6 +4,7 @@ theme: default
 paginate: true
 ---
 
+![bg right:60% fit](cover.png)
 # Module 7: Business Immersion & Product Thinking
 ## Day 5: Executive Presentations
 **Renaissance Developer Academy**
