@@ -1,12 +1,10 @@
 ---
 marp: true
 theme: default
-class: lead
 paginate: true
-backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
+![bg right:60% fit](cover.png)
 # 🏗 Module 4: System Design & Architecture
 ## Day 5: Systems Architect Synthesis & Validation
 **Renaissance Developer Academy**
